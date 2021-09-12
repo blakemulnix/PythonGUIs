@@ -1,0 +1,6 @@
+{
+    "app_name": "AvgCalc",
+    "author": "Blake Mulnix",
+    "main_module": "src/main/python/average_calculator.py",
+    "version": "0.0.0"
+}
